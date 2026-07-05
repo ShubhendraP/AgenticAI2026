@@ -1,0 +1,11 @@
+streamlit
+langchain
+langchain-openai
+python-dotenv
+pypdf
+faiss-cpu
+langchain-community
+langchain-text-splitters
+openpyxl
+networkx
+unstructured[all-docs]
